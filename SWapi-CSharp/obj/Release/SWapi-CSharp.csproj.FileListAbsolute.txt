@@ -1,0 +1,9 @@
+C:\SWapi-CSharp\SWapi-CSharp\bin\Release\SWapiCSharp.dll.config
+C:\SWapi-CSharp\SWapi-CSharp\bin\Release\SWapiCSharp.dll
+C:\SWapi-CSharp\SWapi-CSharp\bin\Release\SWapiCSharp.pdb
+C:\SWapi-CSharp\SWapi-CSharp\bin\Release\Newtonsoft.Json.dll
+C:\SWapi-CSharp\SWapi-CSharp\bin\Release\Newtonsoft.Json.xml
+C:\SWapi-CSharp\SWapi-CSharp\obj\Release\SWapi-CSharp.csproj.CoreCompileInputs.cache
+C:\SWapi-CSharp\SWapi-CSharp\obj\Release\SWapi-CSharp.csproj.CopyComplete
+C:\SWapi-CSharp\SWapi-CSharp\obj\Release\SWapiCSharp.dll
+C:\SWapi-CSharp\SWapi-CSharp\obj\Release\SWapiCSharp.pdb

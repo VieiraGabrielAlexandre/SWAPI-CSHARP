@@ -1,0 +1,15 @@
+C:\SWapi-CSharp\SWapi-CSharpTests\bin\Debug\SWapi-CSharpTests.dll
+C:\SWapi-CSharp\SWapi-CSharpTests\bin\Debug\SWapi-CSharpTests.pdb
+C:\SWapi-CSharp\SWapi-CSharpTests\bin\Debug\Moq.dll
+C:\SWapi-CSharp\SWapi-CSharpTests\bin\Debug\Newtonsoft.Json.dll
+C:\SWapi-CSharp\SWapi-CSharpTests\bin\Debug\SWapiCSharp.dll
+C:\SWapi-CSharp\SWapi-CSharpTests\bin\Debug\SWapiCSharp.pdb
+C:\SWapi-CSharp\SWapi-CSharpTests\bin\Debug\SWapiCSharp.xml
+C:\SWapi-CSharp\SWapi-CSharpTests\bin\Debug\SWapiCSharp.dll.config
+C:\SWapi-CSharp\SWapi-CSharpTests\bin\Debug\Moq.xml
+C:\SWapi-CSharp\SWapi-CSharpTests\bin\Debug\Newtonsoft.Json.xml
+C:\SWapi-CSharp\SWapi-CSharpTests\obj\Debug\SWapi-CSharpTests.csprojAssemblyReference.cache
+C:\SWapi-CSharp\SWapi-CSharpTests\obj\Debug\SWapi-CSharpTests.csproj.CoreCompileInputs.cache
+C:\SWapi-CSharp\SWapi-CSharpTests\obj\Debug\SWapi-CSharpTests.csproj.CopyComplete
+C:\SWapi-CSharp\SWapi-CSharpTests\obj\Debug\SWapi-CSharpTests.dll
+C:\SWapi-CSharp\SWapi-CSharpTests\obj\Debug\SWapi-CSharpTests.pdb

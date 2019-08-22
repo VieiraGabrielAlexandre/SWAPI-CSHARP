@@ -1,0 +1,11 @@
+C:\SWapi-CSharp\Execução do Teste\bin\Release\netcoreapp2.1\Execução do Teste.deps.json
+C:\SWapi-CSharp\Execução do Teste\bin\Release\netcoreapp2.1\Execução do Teste.runtimeconfig.json
+C:\SWapi-CSharp\Execução do Teste\bin\Release\netcoreapp2.1\Execução do Teste.runtimeconfig.dev.json
+C:\SWapi-CSharp\Execução do Teste\bin\Release\netcoreapp2.1\Execução do Teste.dll
+C:\SWapi-CSharp\Execução do Teste\bin\Release\netcoreapp2.1\Execução do Teste.pdb
+C:\SWapi-CSharp\Execução do Teste\obj\Release\netcoreapp2.1\Execução do Teste.csprojAssemblyReference.cache
+C:\SWapi-CSharp\Execução do Teste\obj\Release\netcoreapp2.1\Execução do Teste.csproj.CoreCompileInputs.cache
+C:\SWapi-CSharp\Execução do Teste\obj\Release\netcoreapp2.1\Execução do Teste.AssemblyInfoInputs.cache
+C:\SWapi-CSharp\Execução do Teste\obj\Release\netcoreapp2.1\Execução do Teste.AssemblyInfo.cs
+C:\SWapi-CSharp\Execução do Teste\obj\Release\netcoreapp2.1\Execução do Teste.dll
+C:\SWapi-CSharp\Execução do Teste\obj\Release\netcoreapp2.1\Execução do Teste.pdb

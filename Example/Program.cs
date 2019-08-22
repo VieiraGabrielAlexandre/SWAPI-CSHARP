@@ -22,11 +22,14 @@
             //ProcessExecuteCommand(new FilmsExample(), template, "Films", backgroundColor);
             //ProcessExecuteCommand(new StarshipsExample(), template, "Starhips", backgroundColor);
             ProcessExecuteCommand(new PeopleExample2(),template, "Lista dos Personagens", backgroundColor);
+            Console.WriteLine("---------------\n--Pressione enter para avançar !--\n");
             Console.ReadLine();
             ProcessExecuteCommand(new PeopleExample(), template, "Pesquisa por ID", backgroundColor);
+            Console.WriteLine("---------------\n--Pressione enter para avançar !--\n");
             Console.ReadLine();
             //ProcessExecuteCommand(new PlanetsExample(), template, "Planets", backgroundColor);
             ProcessExecuteCommand(new SpeciesExample(), template, "Humanos", backgroundColor);
+            Console.WriteLine("---------------\n--Pressione enter para avançar !--\n");
             Console.ReadLine();
             //ProcessExecuteCommand(new VehiclesExample(), template, "Vehicles", backgroundColor);
         }
